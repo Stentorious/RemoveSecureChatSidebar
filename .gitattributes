@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
+# Default behavior
 * text=auto
+
+# Text files
+*.mcmeta text
+*.json text
+*.vsh text
+
+# Binary files
+*.png binary
