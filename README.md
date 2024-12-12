@@ -5,12 +5,12 @@
 
 ### Before
 <p align="left">
-    <img width="200px" src="https://i.imgur.com/s3pS0li.png">
+    <img width="300px" src="https://i.imgur.com/5XjlZtI.png">
 </p>
 
 ### After
 <p align="left">
-    <img width="200px" src="https://i.imgur.com/2G0mdzE.png">
+    <img width="300px" src="https://i.imgur.com/iVRIoZx.png">
 </p>
 
 ## Requirements
